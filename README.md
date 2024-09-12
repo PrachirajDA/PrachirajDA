@@ -24,6 +24,6 @@
 
 *Tableau DASHBOARD*
 
-![Tableau Dashboard](asset/Tableau_Dashboard.png)
+![Tableau Dashboard](asset/Tableau_Dashboard.jpg)
 
 
