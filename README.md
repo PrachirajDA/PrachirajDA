@@ -22,7 +22,7 @@
 
 ![Powerbi Dashboard](asset/Powerbi_Dashboard.png)
 
-*Tableau DASHBOARD 1*
+*Tableau DASHBOARD*
 
 ![Tableau Dashboard](asset/Tableau_Dashboard.png)
 
